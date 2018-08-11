@@ -1,4 +1,5 @@
-using Base.Test
+using Compat
+using Compat.Test
 using MeshCat
 using MeshCatMechanisms
 using RigidBodyDynamics
